@@ -1,2 +1,2 @@
-# filatovyua.github.io
-web push notifications test
+filatovyua.github.io
+web push notifications 
